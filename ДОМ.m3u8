@@ -1,0 +1,310 @@
+#EXTM3U
+#EXTINF:0,Pan Armenian
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://37.221.175.40:8181/PanarmLiveT/tracks-v1a1/mono.m3u8?token=JUMyJUE2JUMyJTg5JUMzJThDcyVDMyU5QSVDMiU5RTd5JUMyJTk1JUMzJTg2JTEzJUMyJTk4JTVFJTA5RSVDMyU4QyU3QiVDMyU4Q0UlQzMlOTklQzMlQjAlQzIlQjd5JTdGUyU3QyVDMyU5OSVDMiVCMSVDMyVCRiVDMyU4OCUxMCVDMiU4RTYlMjYlQzIlODhIJUMzJThFVWNDJUMzJTg3JUMzJTg3JUMzJThDZCU2MCUxNSVDMyU5OSVDMiVBMTElQzMlODYlM0YlQzIlODYlQzIlOTFVJUMzJUIzdDIlQzMlOUUlMDg%3D
+#EXTINF:0,Արմենիա Tv
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:0,Armenia Premium
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:0,հայ կինո
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:0,ջան tv
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:0,քոմեդի
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:0,տունտունիկ
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:0,սինեման
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:0,ՖՒԼՄԶՈՆ
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:0,ԿԻՆՈՄԱՆ
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:0,ԽԱՂԱԼԻՔ
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:0,ՀԱՅ TV
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:0,ԹԱՎԱ TV
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:0,ATV
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:0,Հ1
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s1/index.m3u8
+#EXTINF:0,H1 International
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:0,Հ2
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:0,Կենտրոն
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:0,Դար 21
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:0,Երկիր մեդիա
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:0,Հինգերորդ ալիք
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:0,Հինգերորդ ալիք FHD
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s9/index.m3u8
+#EXTINF:0,Արմնյուզ
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:0,նոր ՀԱՅԱՍՏԱՆ
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:0,Ազատություն TV
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:0,Շողակաթ
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:0,Live news am
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+https://live-itadvice.cdnvideo.ru/itadvice/itadvice_smil/7b0493b53e9940494b046f8fdde2c0bd--itadvice--itadvice_720--chunklist.m3u8
+#EXTINF:0,ARTN Shant TV
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:0,HorizonTV Armenia
+#EXTGRP:ՀԱՅԿԱԿԱՆ
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:0,Первый канал
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s14/index.m3u8
+#EXTINF:0,РТР
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:0,Россия-Культура
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s16/index.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:РУССКИЙ
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
+#EXTINF:0,Россия-24
+#EXTGRP:РУССКИЙ
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s77/index.m3u8
+#EXTINF:0,НТВ Мир
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:0,Мир 24 HD
+#EXTGRP:РУССКИЙ
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,Мир HD
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s39/index.m3u8
+#EXTINF:0,Пятница!
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s50/index.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:0,Рен ТВ HD
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s85/index.m3u8
+#EXTINF:0,СТС
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s52/index.m3u8
+#EXTINF:0,РБК-ТВ
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s36/index.m3u8
+#EXTINF:0,Russian Travel Guide HD
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s63/index.m3u8
+#EXTINF:0,Euronews Россия
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s89/index.m3u8
+#EXTINF:0,Настоящее время
+#EXTGRP:РУССКИЙ
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:0,Сонце
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s20/index.m3u8
+#EXTINF:0,Здоровье
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s90/index.m3u8
+#EXTINF:0,RT
+#EXTGRP:РУССКИЙ
+http://ott-cdn.ucom.am/s93/index.m3u8
+#EXTINF:0,Звезда +4
+#EXTGRP:РУССКИЙ
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0,IZ.RU
+#EXTGRP:РУССКИЙ
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:0,360
+#EXTGRP:РУССКИЙ
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:РУССКИЙ
+http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+#EXTINF:0,Киносат
+#EXTGRP:КИНО
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,24 Техно
+#EXTGRP:КИНО
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:0,Polsat Film HD PL
+#EXTGRP:КИНО
+http://v2.catcast.me/content/38896/index.m3u8
+#EXTINF:0,BEST Films HD
+#EXTGRP:КИНО
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:0,Amedia Premium
+#EXTGRP:КИНО
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:0,FilmBox
+#EXTGRP:КИНО
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,Киноужас HD
+#EXTGRP:КИНО
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:0,BTV Mix ужасы
+#EXTGRP:КИНО
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:0,VF Ужасы
+#EXTGRP:КИНО
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:0,SHOT TV
+#EXTGRP:КИНО
+http://persik.by/stream/2944/263250/10454.m3u8
+#EXTINF:0,43 кино канал hd
+#EXTGRP:КИНО
+https://mhd.iptv2022.com/p/h4DQkq_XVR2SwwdJ45y0nw,1637948739/streaming/43kanal/324/1/tracks-v1a1/mono.m3u8?e=1637951553&amp;md5=EMFL1fpwgQXdTp_TTmrdyA
+#EXTINF:0,A2 HD
+#EXTGRP:КИНО
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:0,AMEDIA 1 HD
+#EXTGRP:КИНО
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:0,Дорама
+#EXTGRP:КИНО
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:0,Красная линия
+#EXTGRP:КИНО
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:КИНО
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:0,Bollywood
+#EXTGRP:КИНО
+http://50.7.231.220:8081/184/index.m3u8?wmsAuthSign=1586689488p432i781i191i591Sc00ebde0016f80fccea6ab3da2accc8d
+#EXTINF:0,Рыжий
+#EXTGRP:ДЕТСКИЙ
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:0,Детский мир
+#EXTGRP:ДЕТСКИЙ
+http://ott-cdn.ucom.am/s58/index.m3u8
+#EXTINF:0,Tiji TV
+#EXTGRP:ДЕТСКИЙ
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:0,Смайлик ТВ
+#EXTGRP:ДЕТСКИЙ
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:0,FAN
+#EXTGRP:ДЕТСКИЙ
+http://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:0,Мультик HD
+#EXTGRP:ДЕТСКИЙ
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:0,Мультиландия
+#EXTGRP:ДЕТСКИЙ
+https://autopilot.catcast.tv/content/38105/index.m3u8
+#EXTINF:0,МУЗ-ТВ
+#EXTGRP:МУЗЫКА
+http://ott-cdn.ucom.am/s28/index.m3u8
+#EXTINF:0,Шансон ТВ
+#EXTGRP:МУЗЫКА
+http://ott-cdn.ucom.am/s43/index.m3u8
+#EXTINF:0,BRIDGE TV Русский Хит
+#EXTGRP:МУЗЫКА
+http://ott-cdn.ucom.am/s78/index.m3u8
+#EXTINF:0,Bridge TV
+#EXTGRP:МУЗЫКА
+http://ott-cdn.ucom.am/s34/index.m3u8
+#EXTINF:0,1HD
+#EXTGRP:МУЗЫКА
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:0,Музыка
+#EXTGRP:МУЗЫКА
+http://rtmp.one.by:2200
+#EXTINF:0,Музыка
+#EXTGRP:МУЗЫКА
+http://rtmp.one.by:1200
+#EXTINF:0,ТНТ MUSIC
+#EXTGRP:МУЗЫКА
+https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Russian Music Box
+#EXTGRP:МУЗЫКА
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Kronehit TV HD
+#EXTGRP:МУЗЫКА
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:0,M2O TV Music
+#EXTGRP:МУЗЫКА
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,ACB TV
+#EXTGRP:МУЗЫКА
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:0,Viasat Sport
+#EXTGRP:СПОРТ
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:0,Футбол
+#EXTGRP:СПОРТ
+http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:0,Extreme Sports
+#EXTGRP:СПОРТ
+http://ott-cdn.ucom.am/s76/index.m3u8
+#EXTINF:0,FIGHT BOX HD
+#EXTGRP:СПОРТ
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:СПОРТ
+https://cdn.onarmtv.com/str/8/output.m3u8
+#EXTINF:0,МАТЧ ПРЕМЬЕР
+#EXTGRP:СПОРТ
+https://cdn.onarmtv.com/str/11/output.m3u8
+#EXTINF:0,История
+#EXTGRP:ИНТЕРЕСНЫЙ МИР
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:0,Первый космический
+#EXTGRP:ИНТЕРЕСНЫЙ МИР
+http://ott-cdn.ucom.am/s44/index.m3u8
+#EXTINF:0,Охотник и рыболов
+#EXTGRP:ИНТЕРЕСНЫЙ МИР
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:0,Охотник и рыболов HD
+#EXTGRP:ИНТЕРЕСНЫЙ МИР
+http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:0,Зоо ТВ
+#EXTGRP:ИНТЕРЕСНЫЙ МИР
+http://ott-cdn.ucom.am/s92/index.m3u8
+#EXTINF:0,Наука 2.0
+#EXTGRP:ИНТЕРЕСНЫЙ МИР
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:0,Моя Планета
+#EXTGRP:ИНТЕРЕСНЫЙ МИР
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0,NANO TV
+#EXTGRP:ИНТЕРЕСНЫЙ МИР
+http://nano.teleservice.su:8080/hls/nano.m3u8
